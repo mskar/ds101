@@ -16,4 +16,5 @@ dependencies:
   - sqlalchemy
   - pymysql
   - seaborn
-  - hide-code
+  - pip:
+    - hide-code
